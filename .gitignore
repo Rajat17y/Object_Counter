@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+
+#Virtual enviornment
+envi/
+# Ignore compiled files
+*.pyc
+
+# Ignore videos
+*.mp4
+
+# Ignore a specific folder
+videos/
+
+# Ignore a specific file
+config.txt
